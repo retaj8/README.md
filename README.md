@@ -6,7 +6,7 @@
 1. **تنزيل المشروع**:
    - قم بتنزيل المستودع على جهازك باستخدام الأمر:
      ```
-     git clone https://github.com/username/repository.git
+    git clone https://github.com/retaj8/مشروع-أداة-التعاون-والمشاريع-الطلابية.git
      ```
 
 2. **تثبيت المتطلبات**:
@@ -22,5 +22,8 @@
      ```
 
 ## المتطلبات
-- Node.js
-- npm
+- **Node.js** (الإصدار 14 أو أعلى)
+- **npm** (الإصدار 6 أو أعلى)
+- **خادم ويب** (مثل [XAMPP](https://www.apachefriends.org/index.html) أو [WAMP](http://www.wampserver.com/en/))
+- **قاعدة بيانات MySQL**
+- **Visual Studio Code** (لتحرير الكود)
